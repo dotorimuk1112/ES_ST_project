@@ -7,7 +7,7 @@ start_date = datetime.strptime(start_date_str, "%Y-%m-%d")
 # 몇 번 반복할지 정의
 num_iterations = 11
 headers = {
-  "x-nxopen-api-key": "test_3741a97e1c4e05cc807441eea760d6d21fdf15420dfc726e5f6cb061883c2125df74c6013bba2384f4ae1d35d3d17442"
+  "x-nxopen-api-key": ""
 }
 
 arr = []
