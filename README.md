@@ -1,11 +1,14 @@
 # Elasticsearch-Streamlit 프로젝트
 
 분류: ELK
+
 설명: 메이플스토리 open API를 활용한 Elasticsearch-Streamlit toy project
+
 사용 데이터: https://openapi.nexon.com/
+
 사용 기술 스택: Elasticsearch, Python, Streamlit
 
-![proba.png](Elasticsearch-Streamlit%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%2080642898b2a24e9db446e516caaadde2/proba.png)
+![proba.png](https://github.com/dotorimuk1112/ES_ST_project/blob/main/image/proba.png)
 
 ■ 프로젝트 취지
 
