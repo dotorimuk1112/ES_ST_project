@@ -10,7 +10,7 @@
 
 ![proba.png](https://github.com/dotorimuk1112/ES_ST_project/blob/main/image/proba.png)
 
-■ 프로젝트 취지
+### ■ 프로젝트 취지
 
 - Python 활용 Elasticsearch 데이터 CRUD 연습
 - Elasticsearch와 Streamlit의 연결 경험
